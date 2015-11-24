@@ -2,7 +2,7 @@ genymotion-binocle
 ==================
 
 *An Android app showing Genymotion Java API usage.*  
-![Binocle](../master/binocle/src/main/res/drawable-xxxhdpi/ic_launcher.png?raw=true)
+![Binocle](master/binocle/src/main/res/drawable-xxxhdpi/ic_launcher.png?raw=true)
 
 
 Binocle is a simple application showcasing Genymotion Java API use.
